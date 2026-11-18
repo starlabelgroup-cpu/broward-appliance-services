@@ -82,7 +82,7 @@ function useSeo(route: Route) {
       canonical.rel = 'canonical'
       document.head.appendChild(canonical)
     }
-    canonical.href = `https://browardapplianceservices.com${route.path}`
+    canonical.href = `https://browardapplianceservice.com${route.path}`
   }, [route])
 }
 

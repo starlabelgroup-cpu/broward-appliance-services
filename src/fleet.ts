@@ -6,7 +6,7 @@
 
 export const BRAND = 'Broward Appliance Services'
 export const OPERATOR = 'Top Speed Appliance'
-export const SITE_URL = 'https://browardapplianceservices.com'
+export const SITE_URL = 'https://browardapplianceservice.com'
 export const ALT_DOMAIN = 'browardappliancepros.com'
 export const PHONE_DISPLAY = '954-931-7997'
 export const PHONE_TEL = 'tel:+19549317997'

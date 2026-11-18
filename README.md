@@ -1,7 +1,7 @@
 # Broward Appliance Services — Landing Page Fleet
 
 A data-driven landing page **system** for Top Speed Appliance, built for
-**browardapplianceservices.com** (primary) and **browardappliancepros.com**.
+**browardapplianceservice.com** (primary) and **browardappliancepros.com**.
 
 One data source (`src/fleet.ts`) generates the entire fleet:
 
@@ -28,7 +28,7 @@ One data source (`src/fleet.ts`) generates the entire fleet:
   live form: `POST https://top-speed-service-os.vercel.app/api/v1/speedy/book`
   with the field-for-field payload `customer{name, phone}`, city, zip,
   appliance (service name), issue, preferredWindow, source `WEB_FORM`,
-  via `browardapplianceservices.com`, the landing `page` path, and
+  via `browardapplianceservice.com`, the landing `page` path, and
   first-touch attribution (utmSource/utmMedium/utmCampaign +
   gclid/fbclid/msclkid) captured from the URL. On success the customer
   sees the Service OS reference code; on failure the UI falls back

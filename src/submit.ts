@@ -59,7 +59,7 @@ export type BookingPayload = {
 }
 
 /** The fleet's primary domain, sent as the intake's `via` marker. */
-export const BOOKING_VIA = 'browardapplianceservices.com'
+export const BOOKING_VIA = 'browardapplianceservice.com'
 
 export const TIME_WINDOWS = ['First available', 'Morning', 'Afternoon', 'Evening'] as const
 
