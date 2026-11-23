@@ -65,6 +65,22 @@ function fleetSeoFiles(): Plugin {
           `- Commercial service is priced by custom quote only — see Appliance Pro (https://www.appliancepro.net/).\n\n` +
           `## Coverage\n\n` +
           `- 16 Broward County cities: Coral Springs, Sunrise, Plantation, Fort Lauderdale, Coconut Creek, Pompano Beach, Deerfield Beach, Margate, Tamarac, Davie, Weston, Parkland, Lauderhill, Hollywood, Pembroke Pines and Miramar.\n\n` +
+          `## One platform — Top Speed Service OS\n\n` +
+          `Top Speed Appliance LLC runs on one platform: Top Speed Service OS (https://topspeedserviceos.com). Every door is the same company and the same Service Setters dispatch queue — customer site, provider network, marketplace and media all resolve to Top Speed Appliance LLC.\n\n` +
+          `- Customer site & booking: https://topspeedserviceos.com\n` +
+          `- Residential repair site: https://www.topspeedappliance.net/\n` +
+          `- Provider network: https://topspeedapplianceservice.com/\n` +
+          `- Commercial portal — Appliance Pro: https://www.appliancepro.net/\n` +
+          `- Marketplace — Pepper Lists (buy, sell, book): https://pepperlists.com\n` +
+          `- Refer & Earn: https://topspeedserviceos.com/refer\n` +
+          `- Media OS: https://topspeedserviceos.com/media\n` +
+          `- Ads OS: https://topspeedserviceos.com/ads\n` +
+          `- Every door in one place: https://topspeedserviceos.com/links\n\n` +
+          `## Official social profiles\n\n` +
+          `- Facebook — Top Speed Appliance Repair and Installation (official Page): https://www.facebook.com/profile.php?id=61596590488055\n` +
+          `- Instagram — Ramone Williams, owner ("Speed King"): https://www.instagram.com/rome64220/\n` +
+          `- Instagram — Top Speed Appliance (business): https://www.instagram.com/topspeedappliance/\n` +
+          `- Instagram — Top Speed Appliance (business, verified): https://www.instagram.com/rom64220/\n`,
           `## Booking\n\n` +
           `- Book with the classic web form on this site or on the main platform: https://topspeedserviceos.com/book — the form is the primary booking path. Speedy, the AI service assistant, is available on this site and summarizes and asks for confirmation before anything is sent to the office.\n` +
           `- Every job is confirmed by a human Service Setter and tracked live in Track My Tech.\n`,
