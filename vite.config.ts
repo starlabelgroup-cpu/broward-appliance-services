@@ -80,7 +80,7 @@ function fleetSeoFiles(): Plugin {
           `- Facebook — Top Speed Appliance Repair and Installation (official Page): https://www.facebook.com/profile.php?id=61596590488055\n` +
           `- Instagram — Ramone Williams, owner ("Speed King"): https://www.instagram.com/rome64220/\n` +
           `- Instagram — Top Speed Appliance (business): https://www.instagram.com/topspeedappliance/\n` +
-          `- Instagram — Top Speed Appliance (business, verified): https://www.instagram.com/rom64220/\n`,
+          `- Instagram — Top Speed Appliance (business, verified): https://www.instagram.com/rom64220/\n` +
           `## Booking\n\n` +
           `- Book with the classic web form on this site or on the main platform: https://topspeedserviceos.com/book — the form is the primary booking path. Speedy, the AI service assistant, is available on this site and summarizes and asks for confirmation before anything is sent to the office.\n` +
           `- Every job is confirmed by a human Service Setter and tracked live in Track My Tech.\n`,
