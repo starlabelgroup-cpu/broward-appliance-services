@@ -52,7 +52,7 @@ function fleetSeoFiles(): Plugin {
           `> Broward Appliance Services is the Broward County appliance repair landing fleet of Top Speed Appliance LLC. Every booking lands in Top Speed Service OS, the same dispatch queue as the main platform, with live tracking from request to repair. Slogan: "The Faster, The Better."\n\n` +
           `## Contact\n\n` +
           `- Phone: (844) 460-7038\n` +
-          `- Office: 6810 N State Rd 7, Suite 341, Coconut Creek, FL 33073\n` +
+          `- Service area: 65 cities across Broward, Palm Beach & Miami-Dade — a service-area business; repairs happen at your home or business (no public street address)\n` +
           `- Hours: Monday–Friday, 8:00 AM – 7:00 PM\n` +
           `- Website: ${SITE_URL}/\n` +
           `- Main platform: https://topspeedserviceos.com/\n\n` +
