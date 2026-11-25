@@ -9,6 +9,7 @@ import {
   TIME_WINDOWS, buildBookingPayload, submitBooking, validateBooking,
   type Attribution, type BookingForm as BookingFormData,
 } from './submit'
+import OverdriveHeader from './components/OverdriveHeader'
 
 /* ─── Routing (real paths, History API) ───────────────────────── */
 
@@ -105,6 +106,7 @@ export default function App() {
 
   return (
     <>
+      <OverdriveHeader bookingUrl="/book" homeUrl="/" />
       <div className="topbar">
         <div className="topbar-in">
           <span className="tb-item"><Icon name="pin" size={14} /> Appliance repair across Broward County, Florida</span>
